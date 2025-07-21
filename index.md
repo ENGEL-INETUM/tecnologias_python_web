@@ -3,7 +3,7 @@
 #
 #
 
-## Agente 1: Perplexity
+## 🕵️‍♂️ Agente 1: Perplexity
 
 | 🏆 | Framework | Versatilidad | Rendimiento | Futuro/Escalabilidad | Dependencias a BBDD | Comunidad/Soporte | Facilidad Dev | Opinión Global |
 |----|-----------|--------------|-------------|----------------------|---------------------|-------------------|---------------|----------------|
@@ -22,7 +22,7 @@
 #
 #
 
-## Agente 2: ChatGPT
+## 🕵️‍♂️ Agente 2: ChatGPT
 
 ### 🏆 Comparativa Final de Frameworks Python para Web de Uso Intensivo
 
@@ -49,7 +49,7 @@
 #
 #
 
-## Agente 3: Grok
+## 🕵️‍♂️ Agente 3: Grok
 
 | Tecnología | Rendimiento | Escalabilidad | Facilidad de Uso | Documentación | Comunidad | Valoración Global |
 |------------|-------------|---------------|------------------|---------------|-----------|-------------------|
@@ -71,7 +71,7 @@
 #
 #
 
-## Agente 4: Le Chat
+## 🕵️‍♂️ Agente 4: Le Chat
 
 | Tecnología | Rendimiento | Escalabilidad | Facilidad de Desarrollo | Documentación | Comunidad y Soporte | Curva de Aprendizaje | Integración con Herramientas | Manejo de Archivos Estáticos | Integración con Bases de Datos | Facilidad de Uso de Plantillas | Valoración Global |
 |------------|-------------|---------------|-------------------------|---------------|--------------------|----------------------|-----------------------------|-------------------------------|-------------------------------|--------------------------------|-------------------|
@@ -98,7 +98,7 @@ Tornado es ideal para aplicaciones que requieren manejo de conexiones concurrent
 #
 #
 
-## Agente 5: Qwen
+## 🕵️‍♂️ Agente 5: Qwen
 
 ### Tabla Comparativa Final Definitiva (Mejor a Peor)
 
@@ -122,7 +122,7 @@ Tornado es ideal para aplicaciones que requieren manejo de conexiones concurrent
 #
 #
 
-## Agente 6: Gemini
+## 🕵️‍♂️ Agente 6: Gemini
 
 ### Comparativa de Tecnologías Python para Desarrollo Web de Alto Rendimiento (De Mejor a Peor)
 
@@ -136,7 +136,7 @@ Tornado es ideal para aplicaciones que requieren manejo de conexiones concurrent
 #
 #
 
-## Agente 7: DeepSeek
+## 🕵️‍♂️ Agente 7: DeepSeek
 
 | Tecnología | 🏆 Ranking | Rendimiento (solicitudes/s) | Concurrencia | Facilidad Desarrollo | Versatilidad | Proyección Futuro | Dependencias (BBDD/Libs) | Manejo Estáticos | Auth/Usuarios | WebSockets | Puntuación Total |
 |------------|------------|-----------------------------|--------------|----------------------|--------------|-------------------|--------------------------|------------------|---------------|------------|------------------|
