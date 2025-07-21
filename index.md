@@ -1,5 +1,8 @@
 # Tabla Comparativa Final de Tecnologías Python para Desarrollo Web Intensivo
 
+#
+#
+
 ## Agente 1: Perplexity
 
 | 🏆 | Framework | Versatilidad | Rendimiento | Futuro/Escalabilidad | Dependencias a BBDD | Comunidad/Soporte | Facilidad Dev | Opinión Global |
@@ -15,6 +18,9 @@
 - **Mejor elección para la empresa:** **FastAPI 🚀** es la más versátil, escalable, libre de dependencias restrictivas, con gran proyección futura y perfectamente alineada con Docker y múltiples motores de base de datos. Permite montar solo los componentes que necesites y evoluciona rápidamente, sin forzarte a encajar en modelos cerrados de dependencias.
 - **Django** es inmejorable para proyectos donde la administración, autenticación y una arquitectura fullstack madura (pero bien versionada) son clave.
 - **Tornado** es insuperable si la prioridad es la concurrencia extrema, WebSockets o aplicaciones en tiempo real.
+
+#
+#
 
 ## Agente 2: ChatGPT
 
@@ -40,6 +46,9 @@
 
 ⚠️ Frameworks como Tornado y Pyramid siguen siendo útiles en escenarios específicos (tiempo real, estructuras modulares), pero ya no son las principales opciones para nuevos proyectos masivos.
 
+#
+#
+
 ## Agente 3: Grok
 
 | Tecnología | Rendimiento | Escalabilidad | Facilidad de Uso | Documentación | Comunidad | Valoración Global |
@@ -58,6 +67,9 @@
 - **Django 🥈:** Ideal si se necesitan funcionalidades integradas (autenticación, administración) o una solución probada a gran escala (e.g., Instagram). Sin embargo, requiere optimización para alta concurrencia y puede tener dependencias más estrictas.
 - **Tornado 🥉:** Adecuado para aplicaciones en tiempo real (e.g., chats, streaming), pero su comunidad más pequeña y mayor configuración manual lo hacen menos versátil.
 - **Pyramid:** Útil para proyectos que requieren alta personalización, pero su menor adopción lo hace menos competitivo para proyectos grandes.
+
+#
+#
 
 ## Agente 4: Le Chat
 
@@ -83,6 +95,9 @@ Django es una excelente opción para proyectos que requieren un ecosistema compl
 
 Tornado es ideal para aplicaciones que requieren manejo de conexiones concurrentes y tiempo real. Su arquitectura asíncrona y su capacidad para manejar miles de conexiones simultáneas lo hacen adecuado para aplicaciones de alto rendimiento. Sin embargo, su curva de aprendizaje es más alta y puede requerir más configuración inicial.
 
+#
+#
+
 ## Agente 5: Qwen
 
 ### Tabla Comparativa Final Definitiva (Mejor a Peor)
@@ -104,6 +119,9 @@ Tornado es ideal para aplicaciones que requieren manejo de conexiones concurrent
 
 **Django 🥈** sigue siendo ideal para aplicaciones full-stack con admin integrado, pero FastAPI destaca en escenarios de alto rendimiento y APIs escalables.
 
+#
+#
+
 ## Agente 6: Gemini
 
 ### Comparativa de Tecnologías Python para Desarrollo Web de Alto Rendimiento (De Mejor a Peor)
@@ -114,6 +132,9 @@ Tornado es ideal para aplicaciones que requieren manejo de conexiones concurrent
 | Django | ★★★★☆ | ★★★★☆ | ★★★★☆ | ★★★★★ | ★★★★★ | ★★★★★ | ★★★★☆ | ★★★★★ | ★★★★★ | ★★★★★ | ★★★★★ | ★★★★☆ | ★★★★☆ |
 | Tornado | ★★★★☆ | ★★★★☆ | ★★★☆☆ | ★★☆☆☆ | ★★★★☆ | ★★★★☆ | ★★★☆☆ | ★★★★☆ | ★★★☆☆ | ★★★★☆ | ★★★★☆ | ★★★★☆ | ★★★☆☆ |
 | Pyramid | ★★★☆☆ | ★★★☆☆ | ★★★☆☆ | ★★★☆☆ | ★★★★☆ | ★★★☆☆ | ★★★☆☆ | ★★★★☆ | ★★★★☆ | ★★★★☆ | ★★★★☆ | ★★★★☆ | ★★★☆☆ |
+
+#
+#
 
 ## Agente 7: DeepSeek
 
